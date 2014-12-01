@@ -11,6 +11,10 @@
 
 @interface InterfaceController()
 
+// in the storyboard, added a label to the main interface controller
+// changed the label to say 'Hello World'
+// no need for connections or additional code
+
 @end
 
 
